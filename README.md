@@ -33,3 +33,9 @@
 - Гистограмма доходностей сделок
 
 ## 📂 Структура проекта
+mean_reversion_strategy/
+├── strategy.py
+├── optimize.py
+├── single_stragey_run.py
+├── README.md
+└── requirements.txt
